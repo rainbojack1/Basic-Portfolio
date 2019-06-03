@@ -27,12 +27,26 @@ nav div{
     font-size: 16px;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
+hr{
+    border-width: 2px;
+}
+
 section{
-    height: 560px;
-    width: 1000px;
+    height: 30em;
+    width: 60em;
     background-color: #e3e1df;
     margin: auto;
     padding: 20px;
+}
+
+table{
+    position: relative;
+    left: 108px;
 }
 
 footer{
@@ -49,6 +63,15 @@ footer{
     padding: 10px;
     position: relative;
     right: 230px;
+}
+
+.active{
+    border-bottom: 2px solid #FE0267;
+}
+
+.input{
+    width: 68em;
+    margin: 0.5%;
 }
 
 #border{
@@ -68,3 +91,5 @@ footer{
 #contact-header{
     color: #FE0267;
 }
+
+
