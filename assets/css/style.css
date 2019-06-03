@@ -65,8 +65,6 @@ footer{
     left: 238px;
 }
 
-/* navItems{
-    position: relative;
-    right: 238px;
-    bottom: 100px;
-} */
+#contact-header{
+    color: #FE0267;
+}
